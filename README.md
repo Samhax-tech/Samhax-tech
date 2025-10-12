@@ -1,102 +1,106 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Samhax%20Tech&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Architect%20|%20Code%20Artisan%20|%20Digital%20Alchemist&descAlignY=55&descSize=15"/>
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@:samhaxofficial?name=%3Asamhaxofficial&theme=booru-smtg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=121102">
+    </p>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+My+Dev+Hub!" alt="Typing SVG" />
-  </a>
+<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="<div class="tenor-gif-embed" data-postid="20337624" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624">Ninjala Jane GIF</a>from <a href="https://tenor.com/search/ninjala-gifs">Ninjala GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/></h2>
+
+Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have
+anything special, but I hope to be able to change that in the future.
+
+My hobbies include watching Anime, Reading Manga, Music, Spirituality and late night walks!
+
+<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+
+```sh
+dika@greyrat: ~/my_readme (main⚡)$ neofetch
+```
+
+<img align="left" src="img/hisoka.png" width="130px"/>
+
+```csharp
+My Profile
+-------------------------------
+Host: dikaardnt.com
+Username: DikaArdnt
+WhoamI: Normal People.
+Languages: JavaScript & PHP
+FavouriteAnime: 無職転生 (Mushoku Tensei).
+Waifu: タツマキ (Tatsumaki)
+Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
+Loves: タツマキ (Tatsumaki) (❤️ ω ❤️).
+Pronouns: He-Him.
+Location: Indonesian, Jawa Timur.
+FavouriteSong: 美波 (Minami) - Amewomatsu.
+Hobbies: Watching Anime, Read Manga, and Listening Music
+```
+
+<div>
+<br>
+<br>
+<br>
+<br>
+
+<p align="right"><a href = "https://music.youtube.com/watch?v=sf0QFJTvOLM&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/sf0QFJTvOLM/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
+
+<br>
+<br>
+
+<p align="right"><a href="https://music.youtube.com/watch?v=fE9trKOuT3Q&si=BkSxh-TtURQsoAfx"><img src="https://i.ytimg.com/vi_webp/fE9trKOuT3Q/maxresdefault.webp" width="170" align="left"></a><b><br>LONGMAN - spiral</b></p>
+<br>
+<br>
+
+<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
+
+<br>
+</div>
+<br>
+
+<div>
+<h2 align="center"> 🔎Knowledge📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">Interests and Passions. <br></p>
+<p align = "center">
+     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,htmx&perline=5" alt="My Skills"/> 
+    </a>
 </p>
-
-<div align="center">
-  <p align="center">
-    "👑 𝙆𝙞𝙣𝙜 𝙈𝙤𝙫𝙚𝙨 | ⚡ 𝙐𝙣𝙨𝙩𝙤𝙥𝙥𝙖𝙗𝙡𝙚 𝙂𝙧𝙞𝙣𝙙 🐺 𝙇𝙤𝙣𝙚 𝙒𝙤𝙡𝙛 → 𝙋𝙖𝙘𝙠 𝙇𝙚𝙖𝙙𝙚𝙧 | 📈 𝘿𝙧𝙚𝙖𝙢 𝙄𝙩, 𝘿𝙤 𝙄𝙩 🔥"
-  </p>
 </div>
+<br>
 
-<div align="center">
-  
-![Samhax-tech GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samhax-tech&show_icons=true&theme=dracula&hide_border=true&count_private=true&line_height=25)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samhax-tech&layout=compact&theme=dracula&hide_border=true)
-  
+<div>
+<h2 align="center"> ✨Statistics👨‍💻 </h2>
 </div>
-
-<p align="center">
-<a href="https://samhax-profilez.vercel.app"><img src="https://img.shields.io/badge/My%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
-
 <div align="center">
-  <h2>💫 Connect With Me</h2>
-  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+    <img width="625em" src="./github-metrics.svg" />
 </div>
+<br>
+<br>
 
+<!-- <br><br><br><br> -->
 
-  
+## **📫 Contact**
 
-<a href="https://t.me/samhax_official"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/ripper_samhax"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://samhax-profilez.vercel.app"><img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white" /><br>
+<a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
+response:** [DikaArdnt](https://discord.com/users/808923620792991754)
 
-  <br>
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Samhax-tech&data=followers,repositories,stars,commits&theme=nautical"/>
+**You can also email me here:** [mail@dikaardnt.com](mailto:mail@dikaardnt.com)
+
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/DikaArdnt)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@dikaardnt.com)
+
+<div>
+    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+    <div align="center">
+        <img src="https://media1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
+    </div>
 </div>
-
-<div align="center">
-  <h2>🛠️ Languages & Tools</h2>
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Fullstack%20Arsenal&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=dracula&gap=13&line1=node.js,node.js,339933;express,express,000000;javascript,javascript,F7DF1E;python,python,3776AB;&line2=mongodb,mongodb,47A248;mysql,mysql,4479A1;react,react,61DAFB;" alt="Tech Stack" />
-</div>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=Samhax-tech&cc=000&tc=fff&ic=fff&bc=000&theme=dracula" alt="Stats">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samhax-tech&theme=dracula" width="100%">
-  
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samhax-tech&theme=dracula" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samhax-tech&theme=dracula" width="45%">
-  </p>
-</div>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Samhax-tech&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</div>
-
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samhax-tech&bg_color=0d1117&color=00FFFF&line=00FFFF&point=00FFFF&area=true&hide_border=true&radius=8" width="100%">
-</div>
-
-
-
-<div align="center">
-
-  
-
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" width="100%">
-  
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+the+future!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<br> 
+<br>
