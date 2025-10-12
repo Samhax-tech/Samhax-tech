@@ -4,7 +4,7 @@
     </p>
 </div>
 
-<h2 align="center">Hey there! <img height="35" alt="Kyubey" src="<div class="tenor-gif-embed" data-postid="20337624" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ninjala-jane-hacker-hacking-computer-gif-20337624">Ninjala Jane GIF</a>from <a href="https://tenor.com/search/ninjala-gifs">Ninjala GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"/></h2>
+<h2 align="center">Hey there! <img height="35" alt="Samhax" src="https://tenor.com/en-GB/view/ninjala-jane-hacker-hacking-computer-gif-20337624" /></h2>
 
 Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have
 anything special, but I hope to be able to change that in the future.
