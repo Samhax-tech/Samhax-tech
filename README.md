@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
+        <img align="center" alt="count" src="[https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd](https://count.getloli.com/@:samhaxtech?name=%3Asamhaxtech&theme=rule34&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=1&num=1203786)">
     </p>
 </div>
 
@@ -14,7 +14,7 @@ My hobbies include watching Anime, Reading Manga, Music, Spirituality and late n
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```sh
-dika@greyrat: ~/my_readme (main⚡)$ neofetch
+samhax-tech: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="img/hisoka.png" width="130px"/>
@@ -22,18 +22,18 @@ dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```csharp
 My Profile
 -------------------------------
-Host: dikaardnt.com
-Username: DikaArdnt
+Host: samhax-profilez.vercel.app
+Username: samhax-tech
 WhoamI: Normal People.
 Languages: JavaScript & PHP
-FavouriteAnime: 無職転生 (Mushoku Tensei).
-Waifu: タツマキ (Tatsumaki)
-Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️).
+FavouriteAnime: 転生したらスライムだった件 (That time i got reincarnated as a slime).
+Waifu: レム (Rem)
+Waifu(2): ナミ (Nami)
+Loves: ナミ (Ta) (❤️ ω ❤️).
 Pronouns: He-Him.
-Location: Indonesian, Jawa Timur.
-FavouriteSong: 美波 (Minami) - Amewomatsu.
-Hobbies: Watching Anime, Read Manga, and Listening Music
+Location: Pakistan, Lahore.
+FavouriteSong: xcho-иммигрант (Xcho) - Immigrant.
+Hobbies: Watching Anime and Listening Music
 ```
 
 <div>
