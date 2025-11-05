@@ -84,7 +84,7 @@ Hobbies: Watching Anime and Listening Music
 <div>
 <h2 align="center"> ✨Statistics👨‍💻 </h2>
     
-![Samhax's GitHub stats-Dark][https://github-readme-stats.vercel.app/api?username=Samhax-tech&show_icons=true&theme=dark#gh-dark-mode-only](https://github.com/Samhax-tech/github-readme-stats#gh-dark-mode-only)
+![Samhax's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Samhax-tech&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/Samhax-tech/github-readme-stats#gh-dark-mode-only)
 
 </div>
 <div align="center">
