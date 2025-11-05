@@ -86,6 +86,7 @@ Hobbies: Watching Anime and Listening Music
 </div>
 <div align="center">
     <img width="625em" src="./github-metrics.svg" />
+    soon available...
 </div>
 <br>
 <br>
