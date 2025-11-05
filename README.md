@@ -6,15 +6,22 @@
 
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have
-anything special, but I hope to be able to change that in the future.
+I'm Samhax, a developer from Pakistan 🇵🇰. My main tech stack centers on JavaScript and Node.js, where I love building robust solutions. I'm also currently focused on setting up my own hosting sites!
 
-My hobbies include watching Anime, Reading Manga, Music, Spirituality and late night walks!
+When I'm not immersed in code, you can find me:
+
+Getting lost in Anime & Manga 📚
+
+Listening to Music 🎧
+
+Exploring Spirituality 🙏
+
+Enjoying peaceful late-night walks ✨
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```sh
-samhax-tech: ~/my_readme (main⚡)$ neofetch
+samhax@tech: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="img/hisoka.png" width="130px"/>
@@ -67,8 +74,8 @@ Hobbies: Watching Anime and Listening Music
 <div align = "center">
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
-     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,htmx&perline=5" alt="My Skills"/> 
+     <a href="https://skillicons.dev/icons?i=js,nodejs,vscode,kali">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,mongodb,nodejs,bots,git,vscode,go,php,kali,prisma,htmx,ubuntu&perline=5" alt="My Skills"/> 
     </a>
 </p>
 </div>
@@ -84,22 +91,22 @@ Hobbies: Watching Anime and Listening Music
 <br>
 
 <!-- <br><br><br><br> -->
-
+ed
 ## **📫 Contact**
 
-<a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
-response:** [DikaArdnt](https://discord.com/users/808923620792991754)
+<a href="https://github.com/Samhax-tech"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
+response:** [Samhax Official](https://discord.com/users/1435432848420245569)
 
-**You can also email me here:** [mail@dikaardnt.com](mailto:mail@dikaardnt.com)
+**You can also email me here:** [mail@dikaardnt.com](mailto:rippersamhax@gmail.com)
 
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
-[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/DikaArdnt)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@dikaardnt.com)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1435432848420245569)
+[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/samhax_official)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:rippersamhax@gmail.com)
 
 <div>
     <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
     <div align="center">
-        <img src="https://media1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
+        <img src="https://mia1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
     </div>
 </div>
 <br> 
