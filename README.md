@@ -91,7 +91,7 @@ Hobbies: Watching Anime and Listening Music
 <br>
 
 <!-- <br><br><br><br> -->
-ed
+
 ## **📫 Contact**
 
 <a href="https://github.com/Samhax-tech"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
