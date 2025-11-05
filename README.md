@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd](https://count.getloli.com/@:samhaxtech?name=%3Asamhaxtech&theme=rule34&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=1&num=1203786">
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd](https://count.getloli.com/@:samhaxtech?name=%3Asamhaxtech&theme=rule34&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=1&num=1203786"></img>
     </p>
 </div>
 
