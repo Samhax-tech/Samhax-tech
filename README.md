@@ -62,7 +62,7 @@ Hobbies: Watching Anime and Listening Music
 <br>
 <br>
 
-<p align="left"><a href = "https://www.youtube.com/watch?v=4KnJOdR6YXw"><img  src ="https://img.youtube.com/vi/4KnJOdR6YXw/mqdefault.jpg" width="170" align="right"></a><b><br><br>Free Whatsapp Panel - Samhax Tech"</b></p>
+<p align="left"><a href = "https://www.youtube.com/watch?v=4KnJOdR6YXw"><img  src ="https://img.youtube.com/vi/4KnJOdR6YXw/mqdefault.jpg" width="170" align="right"></a><b><br><br>Free Whatsapp Panel - Samhax Tech</b></p>
 
 <br>
 </div>
@@ -97,10 +97,10 @@ Hobbies: Watching Anime and Listening Music
 
 ## **📫 Contact**
 
-<a href="https://github.com/Samhax-tech"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
+<a href="https://github.com/Samhax-tech"><img align="right" width="100" src="img/rembabe.png" /></a> **Please Contact me on Discord for a quick
 response:** [Samhax Official](https://discord.com/users/1435432848420245569)
 
-**You can also email me here:** [mail@dikaardnt.com](mailto:rippersamhax@gmail.com)
+**You can also email me here:** [rippersamhax@gmail.com](mailto:rippersamhax@gmail.com)
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1435432848420245569)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/samhax_official)
