@@ -49,20 +49,20 @@ Hobbies: Watching Anime and Listening Music
 <br>
 <br>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=sf0QFJTvOLM&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/sf0QFJTvOLM/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=8DGb9KUx6xQ"><img src = "https://img.youtube.com/vi/8DGb9KUx6xQ/mqdefault.jpg" width = "170" align = "left"/></a><b><br> xcho-иммигрант </b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=Am_UfnV-niA"><img  src ="https://img.youtube.com/vi/Am_UfnV-niA/mqdefault.jpg" width="170" align="right"></a><b><br><br> Montagem Lunar - DJ DYLANFK </b></p>
 
 <br>
 <br>
 
-<p align="right"><a href="https://music.youtube.com/watch?v=fE9trKOuT3Q&si=BkSxh-TtURQsoAfx"><img src="https://i.ytimg.com/vi_webp/fE9trKOuT3Q/maxresdefault.webp" width="170" align="left"></a><b><br>LONGMAN - spiral</b></p>
+<p align="right"><a href="https://music.youtube.com/watch?v=FfOwqhckUH8"><img src="https://img.youtube.com/vi/FfOwqhckUH8/mqdefault.jpg" width="170" align="left"></a><b><br>STFU - AP Dhillon</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
+<p align="left"><a href = "https://www.youtube.com/watch?v=4KnJOdR6YXw"><img  src ="https://img.youtube.com/vi/4KnJOdR6YXw/mqdefault.jpg" width="170" align="right"></a><b><br><br>Free Whatsapp Panel - Samhax Tech"</b></p>
 
 <br>
 </div>
