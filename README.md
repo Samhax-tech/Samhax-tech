@@ -24,7 +24,7 @@ Enjoying peaceful late-night walks ✨
 samhax@tech: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/hisoka.png" width="130px"/>
+<img align="left" src="img/sakamoto.png" width="130px"/>
 
 ```csharp
 My Profile
